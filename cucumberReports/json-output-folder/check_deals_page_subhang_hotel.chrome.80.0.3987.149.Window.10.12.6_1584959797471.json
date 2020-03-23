@@ -1,0 +1,98 @@
+[
+  {
+    "description": "    Feature Description",
+    "elements": [
+      {
+        "id": "check-deals-page-subhang-hotel;checking-dorsett-grand-subang",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Checking Dorsett Grand Subang",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I’m on CIMB page",
+            "result": {
+              "status": "passed",
+              "duration": 2357601
+            },
+            "line": 6,
+            "match": {
+              "location": "D:\\Protector\\CimbProject\\e2e\\cimbStepDefinition\\cimb_step.js:7"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I select CIMB Deals",
+            "result": {
+              "status": "passed",
+              "duration": 579200
+            },
+            "line": 7,
+            "match": {
+              "location": "D:\\Protector\\CimbProject\\e2e\\cimbStepDefinition\\cimb_step.js:17"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I would like to explore more for Dorsett Grand Subang under Travel & Fun",
+            "result": {
+              "status": "passed",
+              "duration": 1670200
+            },
+            "line": 8,
+            "match": {
+              "location": "D:\\Protector\\CimbProject\\e2e\\cimbStepDefinition\\cimb_step.js:23"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I will be able to see its details and other similar deals",
+            "result": {
+              "status": "passed",
+              "duration": 455701
+            },
+            "line": 9,
+            "match": {
+              "location": "D:\\Protector\\CimbProject\\e2e\\cimbStepDefinition\\cimb_step.js:42"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 479000
+            },
+            "hidden": true,
+            "match": {
+              "location": "D:\\Protector\\CimbProject\\node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:50"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "check-deals-page-subhang-hotel",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Check deals page Subhang hotel",
+    "tags": [],
+    "uri": "D:\\Protector\\CimbProject\\e2e\\feature\\cimb.feature",
+    "metadata": {
+      "browser": {
+        "name": "chrome",
+        "version": "80.0.3987.149"
+      },
+      "device": "Window 10",
+      "platform": {
+        "name": "Window",
+        "version": "10.12.6"
+      }
+    }
+  }
+]

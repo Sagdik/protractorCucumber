@@ -1,0 +1,26 @@
+{
+  "name": "cimb",
+  "version": "1.0.0",
+  "description": "cimb project test cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagar tripathi",
+  "license": "MIT",
+  "devDependencies": {
+    "chai-smoothie": "^0.3.2",
+    "chai-subset": "^1.6.0",
+    "cucumber": "^1.3.2",
+    "cucumber-html-reporter": "^5.1.0",
+    "protractor": "^5.4.3",
+    "protractor-cucumber-framework": "^6.2.1",
+    "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.1"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "multiple-cucumber-html-reporter": "^1.16.0"
+  },
+  "keywords": []
+}
